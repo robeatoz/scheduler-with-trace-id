@@ -1,0 +1,1 @@
+This is a fully reproducible example for https://github.com/spring-projects/spring-framework/issues/35364
